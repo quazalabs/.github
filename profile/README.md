@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Quaza" src="https://raw.githubusercontent.com/bieloliver06/quaza-contracts/main/assets/Quaza.png?token=GHSAT0AAAAAACGE42C5BBLATCUMVQHBI4KSZKY743Q"/>
+    <img alt="Quaza" src="./assets/Quaza.png"/>
 </div>
 
 ---
@@ -18,7 +18,7 @@ Quaza is more than just a token. It's a comprehensive solution that includes:
 
 ## Our Token: QZA
 
-<img alt="Quaza" src="https://raw.githubusercontent.com/bieloliver06/quaza-contracts/main/assets/token.png?token=GHSAT0AAAAAACGE42C5MOCDMUKKL26MF4UUZKY75LQ" width="80"/>
+<img alt="Quaza" src="./assets/token.png" width="80"/>
 
 QZA is an Omnichain ERC20 token built on the OFTv2 framework by **LazerZero**. This allows QZA to operate seamlessly across multiple blockchain networks, offering unprecedented flexibility and utility.
 
