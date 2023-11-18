@@ -4,7 +4,7 @@
 
 ---
 
-# **_Quaza_** : Multichain Yield Aggregator
+# **_Quaza_** : Multichain Yield Aggregator & Optimizer
 
 Welcome to Quaza, a groundbreaking project that brings together the power of yield aggregation and the versatility of Omnichain Tokens. Our flagship token, **QZA**, is built on the robust OFTv2 Token framework, offering unparalleled compatibility across multiple blockchain networks. And with our yield aggregator you won't have to worry about any of your investments.
 
