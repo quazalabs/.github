@@ -18,7 +18,7 @@ Quaza is more than just a token. It's a comprehensive solution that includes:
 
 ## Our Token: QZA
 
-<img alt="Quaza" src="./assets/token.png" width="80"/>
+<img alt="Quaza" src="./profile/assets/token.png" width="80"/>
 
 QZA is an Omnichain ERC20 token built on the OFTv2 framework by **LazerZero**. This allows QZA to operate seamlessly across multiple blockchain networks, offering unprecedented flexibility and utility.
 
