@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Quaza" src="./assets/Quaza.png"/>
+    <img alt="Quaza" src="./profile/assets/Quaza.png"/>
 </div>
 
 ---
