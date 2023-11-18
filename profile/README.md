@@ -26,7 +26,7 @@ QZA is an Omnichain ERC20 token built on the OFTv2 framework by **LazerZero**. T
 
 Our yield aggregator is a powerful tool that optimizes returns for liquidity providers. It's currently a work in progress, and it'll be available shortly.
 
-### Apart from all of this there's more coming, we can't reveal just yet!
+### Apart from all of this there's more coming, but we can't reveal it just yet!
 
 ## Built With
 
