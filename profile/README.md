@@ -34,7 +34,3 @@ Quaza is built using some of the most advanced tools in the blockchain space:
 
 - Hardhat - A professional-grade Ethereum development environment.
 - Solidity - The leading language for implementing Smart Contracts.
-
-## Contact Us
-
-For any inquiries, please reach out to us at [contact information].
